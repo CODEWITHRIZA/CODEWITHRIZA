@@ -17,7 +17,7 @@
 <a href="https://linkedin.com/in/riza-mohamed-a65604258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riza-mohamed-a65604258" height="30" width="40" /></a>
 <a href="https://fb.com/rmtkottakkal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rmtkottakkal" height="30" width="40" /></a>
 <a href="https://instagram.com/codewithriza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codewithriza" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/codewithriza6839" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codewithriza6839" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCAzy3nrO92ofaYOOP61ARlA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codewithriza6839" height="30" width="40" /></a>
 <a href="https://discord.gg/Riza#0106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Riza#0106" height="30" width="40" /></a>
 </p>
 
